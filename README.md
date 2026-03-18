@@ -40,7 +40,7 @@ Open http://localhost:5173. Use Chrome or Edge (WebHID requires a Chromium brows
 
 ## Hardware
 
-![Protoboard](screenshots/protoboard.png)
+<img src="screenshots/protoboard.png" width="400" />
 
 The full project includes everything needed to build the keyboard from scratch:
 
